@@ -1,7 +1,5 @@
 # LFR_OA
-### Components
-LFR Components:
-=========================================================
+### LFR Components:
 1- 1x 6 channel sensor array
 2- 1x Arduino Nano
 3- 1x DSN-Mini-360 Buck Converter
@@ -17,4 +15,3 @@ LFR Components:
 13- 10x 4.7k resistors
 14- 10x 220 Ohm Resistors
 15- 1x 8 header pins
-=======================================================
